@@ -4,8 +4,7 @@
 <!-- Contact Info -->
 <div id="contact_buttons">
     <footer>
-        {{ $name := $data.name | default $.Site.Data.config.name }}
-        {{ $year := dateFormat "2006" now }}
+        <p>Made with ♥ in Abruzzo, IT <br /> © {{ dateFormat "2006" now }} {{ $.Site.Data.config.name }}</p>
         <p>{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}}</p>
         <ul>
             {{ if not .IsHome }}

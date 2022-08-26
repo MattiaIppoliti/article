@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Mattia Ippoliti
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/MattiaIppoliti/article/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
@@ -20,7 +20,7 @@ description:
 page_title:
   "🪴 Quartz 3.2"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Linketin
+    link: https://www.linkedin.com/in/mattiaippoliti/
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/MattiaIppoliti
