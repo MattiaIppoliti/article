@@ -25,11 +25,19 @@
   --outlinegray: #D4FFD4 !important;
 }
 
-.header_logo {
+.footer_logo {
   display: inline-block;
-  max-width: 300px;
+  max-width: 500px;
   width: 100%;
   padding-right: 25px;
 }
+
+.footer_logo img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  // margin-right: 2em;
+  // max-width: 75%;
+}
+
 
 
