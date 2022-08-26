@@ -619,3 +619,8 @@ header {
   }
 }
 
+::selection {
+  background-color: var(--primary);
+  color: var(--color-white);
+  text-shadow: none;
+}
