@@ -5,7 +5,6 @@
 <div id="contact_buttons">
     <footer>
         <p>Made with ♥ in Abruzzo, IT <br /> © {{ dateFormat "2006" now }} {{ $.Site.Data.config.name }}</p>
-        <p>{{ i18n "copyright" (dict "name" $name "year" $year) | safeHTML}}</p>
         <ul>
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
