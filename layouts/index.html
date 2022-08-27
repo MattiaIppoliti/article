@@ -11,7 +11,7 @@
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
-          <a href="/notes">See {{sub (len $notes) 2}} more →</a>
+          <a href="/thoughts">See {{sub (len $notes) 2}} more →</a>
         {{end}}
     </article>
     {{partial "footerIndex.html" .}}
