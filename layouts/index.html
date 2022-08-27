@@ -12,7 +12,7 @@
         {{if $.Site.Data.config.enableRecentNotes}}
           {{$notes := where .Site.RegularPages "Section" "notes"}}
           {{partial "recent.html" . }}
-          <a href="/notes" >See {{sub (len $notes) 2}} more →</a>
+          <a href="https://mattiaippoliti.github.io/article/notes/" >See {{sub (len $notes) 2}} more →</a>
         {{end}}
     </article>
     {{partial "footerIndex.html" .}}
