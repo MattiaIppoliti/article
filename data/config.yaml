@@ -1,6 +1,6 @@
 name: Mattia Ippoliti
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/MattiaIppoliti/article/tree/hugo/content
 enableSemanticSearch: false
@@ -24,3 +24,5 @@ links:
     link: https://www.linkedin.com/in/mattiaippoliti/
   - link_name: Github
     link: https://github.com/MattiaIppoliti
+  - link_name: Website
+    link: https://mattiaippoliti.github.io/MattiaIppoliti/
