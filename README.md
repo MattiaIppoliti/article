@@ -19,5 +19,3 @@ In this era of my life, I’m working towards being someone who is unabashedly e
 - GitHub: https://github.com/MattiaIppoliti
 
 - LinkTree: https://linktr.ee/mattiaippoliti
-
-![[static/mattia-back.jpeg]]
