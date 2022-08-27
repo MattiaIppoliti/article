@@ -10,9 +10,9 @@
     <article>
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
-          {{$notes := where .Site.RegularPages "Section" "thoughts"}}
+          {{$notes := where .Site.RegularPages "Section" "notes"}}
           {{partial "recent.html" . }}
-          <a href="/thoughts">See {{sub (len $notes) 2}} more →</a>
+          <a href="/notes">See {{sub (len $notes) 2}} more →</a>
         {{end}}
     </article>
     {{partial "footerIndex.html" .}}
