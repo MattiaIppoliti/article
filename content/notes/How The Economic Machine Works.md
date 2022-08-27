@@ -2,24 +2,17 @@
 tags: Economics
 title: How The Economic Machine Works
 ---
-back:: [[Libri]]
 # [[How The Economic Machine Works]]
-**Autor**: [[Ray Dalio]]
-Watch this: [**Video**](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-On this day: [[2022-01-09]]
+**Autor**: Ray Dalio
+Watch this: Video: https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
 ```ad-quote
 title: Ray Dalio
 Il mondo è inpazzito e il sistema è rotto
 ```
 
-## Table-of-Contents
-  - [1.What is the Economy](#1.What-is-the-Economy)
-  - [2.Productivity growth](#2.Productivity-growth)
-  - [3.The Short term debt cycle](#3.The-Short-term-debt-cycle)
-  - [4.The Long term debt cycle](#4.The-Long-term-debt-cycle)
-  - [5. Conclusion](#5.Conclusion)
 
-## 1.What-is-the-Economy
+## 1.What is the Economy
 It's made up of a few simple parts and a lot of simple transactions that are repeated over and over again a zillion times.
 
 These transactions are above all else driven by human nature, and they create 3 main forces that drive the economy:
@@ -63,9 +56,8 @@ Because when a borrower receives credit, he is able to increase his spending. An
 
 So increased income allows increased borrowing (from the bank) which allows increased spending. And since one person's spending is another person's income, this leads to more increased borrowing and so on. This self-reinforcing pattern leads to economic growth and is why we have **Cycles**.
 
-[⬆ back to top](#Table-of-Contents)
 
-## 2.Productivity-growth
+## 2. Productivity growth
 Those who were invented and hard-working raise their productivity and their living standards faster than those who are complacent and lazy. BUT Productivity matters most in the long run, but **[[Credit]]** matters most in the **short run**.
 
 This is because productivity growth doesn't fluctuate much (it is a linear function), so it's not a big driver of economic swings. **[[Debt]]** is(non linear function) — because it allows us to consume more than we produce when we acquire it and it forces us to consume less than we produce when we pay it back.
@@ -91,9 +83,7 @@ As a result, an economy with credit has more spending and allows incomes to rise
 
 **NB**: Now, don't get me wrong, credit isn't necessarily something bad that just causes cycles. For example, if you borrow money to buy a big TV, it doesn't generate income for you to pay back the debt. But, if you borrow money to buy a tractor — and that tractor let's you harvest more crops and earn more money — then, you can pay back your debt.
 
-[⬆ back to top](#Table-of-Contents)
-
-## 3.The-Short-term-debt-cycle
+## 3.The Short term debt cycle
 Suppose you earn $100,000 a year and have no debt. You are creditworthy enough to borrow $10,000 dollars, so you can spend $110,000 dollars even though you only earn $100,000 dollars. 
 
 Since your spending is another person's income, someone is earning $110,000 dollars. The person earning $110,000 dollars with no debt can borrow $11,000 dollars, so he can spend $121,000 dollars even though he has only earned $110,000 dollars. His spending is another person's income, exc. A cycle is beginning.
@@ -122,9 +112,8 @@ And note that this cycle is controlled primarily by the central bank. The short 
 *Why?*
 Because people push it — they have an inclination to borrow and spend more instead of paying back debt. It's human nature. Over long periods of time, debts rise faster than incomes creating the **Long Term Debt Cycle**.
 
-[⬆ back to top](#Table-of-Contents)
 
-## 4.The-Long-term-debt-cycle
+## 4.The Long term debt cycle
 Despite people becoming more indebted, lenders even more freely extend credit (that's strange, banks should be reclined to give credit to people that are in debt!). 
 
 But Why lenders do that? Because everybody thinks things are going great! They can see only the short term. Incomes have been rising! Asset values are going up! The stock market roars! It's a boom! When people do a lot of that, we call it a **bubble**.
@@ -216,21 +205,9 @@ Laying the short term debt cycle on top of the long term debt cycle and then lay
 
 So in summary, there are three rules of thumb that I'd like you to take away from this:
 
----
 1. Don't have debt rise faster than income, because your debt burdens will eventually crush you.
 
----
 2. Don't have income rise faster than productivity, because you will eventually become uncompetitive.
----
+
 3. Do all that you can to raise your productivity, because, in the long run, that's what matters most.
----
 
-[⬆ back to top](#Table-of-Contents)
-
-### Collegamenti
-```query
-Ray Dalio
-```
-
-
-[⬆ back to top](#Table-of-Contents)

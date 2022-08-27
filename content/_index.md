@@ -10,7 +10,7 @@ Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend
 
 ## Recent Blog Posts
 - [[notes/How The Economic Machine Works | How The Economic Machine Works]]
-- [[notes/How To Not Die Alone | How To Not Die Alone]]
+- [[content/private/How To Not Die Alone | How To Not Die Alone]]
 
 ## Entry Points
 - [[notes/Learning Obsidian | Learning Obsidian]]

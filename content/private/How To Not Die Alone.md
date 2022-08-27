@@ -1,20 +1,11 @@
 ---
 Title: How To Not Die Alone
 ---
-back:: [[Libri]]
-# [[How To Not Die Alone]]
-Read this fantastic post of [[Tim Urban]]: https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html
-## Table-of-Contents
-  - [1. Why is dating so hard?](#1.Why-is-dating-so-hard?)
-  - [2. Know your blind spot](#2.Know-your-blind-spot)
-  - [3. Don't let perfect be the enemy of great](#3.Don't-let-perfect-be-the-enemy-of-great) ^ac5d25
-  - [4. Stop looking for prom dates](#4.Stop-looking-for-prom-dates)
-  - [5.  Decide don't slide](#5.Decide,don't-slide)
-  - [6. Bonus](#Bonus)
-  - [7. Tim Urban](#7.Tim-Urban)
+# [[content/private/How To Not Die Alone]]
+Read this fantastic post of Tim Urban: https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html
 
 
-#### 1.Why-is-dating-so-hard?
+#### 1.Why is dating so hard?
 1. Now-days we do define our personal identities more so than we did in the past in the past there was a lot less personal agency you would kind of have these expectations thrust on you you'd become a doctor because your parents told you to become a doctor you'd marry this person because your parents told you to marry that person
 2. We've just got way too many options
 3. We see all these comparator things and even if it's not like famous youtuber a couple vloggers or it's our friends on social media you know engagement photos all that kind of stuff it's so easy to compare our failures in dating with other people's highlight reels

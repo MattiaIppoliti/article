@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
-            "mode": "preview",
-            "source": false
+            "file": "content/notes/Writing in Markdown.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Writing in Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Writing in Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Writing in Markdown.md"
               }
             }
           }
@@ -130,7 +130,12 @@
   },
   "active": "6e203bebfb99cc31",
   "lastOpenFiles": [
-    "README.md",
-    "content/_index.md"
+    "content/notes/Principles for Dealing with the Changing World Order.md",
+    "content/notes/Learning Obsidian.md",
+    "content/notes/How The Economic Machine Works.md",
+    "content/_index.md",
+    "content/private/How To Not Die Alone.md",
+    "content/notes/Writing in Markdown.md",
+    "README.md"
   ]
 }
