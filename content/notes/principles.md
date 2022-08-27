@@ -1,7 +1,7 @@
 ---
 Title: Principles for Dealing with the Changing World Order
 ---
-# [[Principles for Dealing with the Changing World Order]]
+# [[notes/principles]]
 
 ### 1. How to anticipate the future by studing the past
 **currency devaluation**: Back then paper dollars were also linked to gold which the us was running out of because it was spending more paper money checks then it had gold to exchange for them. Breaking the link to gold allowed the US to speding more than it erned, simply by printing more paper dollars, and the value of each dollar fell. Without a corrispendence in productinity, all this money went to buy lots of stocks gold and commodities and causes their price to rise!!

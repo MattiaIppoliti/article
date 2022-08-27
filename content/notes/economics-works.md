@@ -2,7 +2,7 @@
 tags: Economics
 title: How The Economic Machine Works
 ---
-# [[How The Economic Machine Works]]
+# [[notes/economics-works]]
 **Autor**: Ray Dalio
 Watch this: Video: https://www.youtube.com/watch?v=PHe0bXAIuk0)
 

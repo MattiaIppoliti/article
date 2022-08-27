@@ -9,11 +9,12 @@ Hello there, traveller of the web. Welcome back! You must be tired from your jou
 Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend a lot of time here playing, writing, and building out in the open. It’s a little unkempt in places, but I think it gives it a little charm.
 
 ## Recent Blog Posts
-- [[notes/How The Economic Machine Works | How The Economic Machine Works]]
+- [How The Economic Machine Works](notes/economics-works)
+- [Principles for Dealing with the Changing World Order](notes/principles)
 
 ## Entry Points
-- [[notes/Learning Obsidian | Learning Obsidian]]
-- [[notes/Writing in Markdown | Writing in Markdown]]
+- [Learning Obsidian](/notes/learning-obsidian.md)
+- [Writing in Markdown](/notes/writing-markdown.md)
 
 ---
 

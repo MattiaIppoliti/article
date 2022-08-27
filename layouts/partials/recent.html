@@ -8,6 +8,6 @@
   -->
   {{$notes := .Site.RegularPages}}
   {{partial "page-list.html" (first 5 $notes)}}
-  <a href="{{partial page-list.html}}">See {{sub (len $notes) 2}} more →</a>
+  <a href="/notes" >See {{sub (len $notes) 2}} more →</a>
 </div>
 
