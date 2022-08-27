@@ -10,10 +10,26 @@
     <article>
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
-          {{$notes := where .Site.RegularPages "Section" "notes"}}
-          {{partial "recent.html" . }}
-          <a href="/content/notes/">See {{sub (len $notes)}} more →</a>
-        {{end}}
+        <div class="delay t-4">
+          <h2>Recent Notes</h2>
+          {{$notes := where .Site.RegularPages "Section" "thoughts"}}
+          <ul class="delay stagger">
+              {{range first 2 $notes }}
+              <li>
+                  <div class="section">
+                      <div class="desc">
+                          <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+                      </div>
+                      <p class="meta">
+                          {{.WordCount}} words on {{ .Lastmod.Format "Jan 2, 2006" }}
+                      </p>
+                      {{partial "tags.html" .}}
+                  </div>
+              </li>
+              {{end}}
+          </ul>
+          <a href="/thoughts">See {{sub (len $notes) 2}} more →</a>
+      </div>
     </article>
     {{partial "footerIndex.html" .}}
 </div>
