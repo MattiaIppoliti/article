@@ -29,12 +29,14 @@ I’m curious about how we can better incentivize public goods funding, support 
 
 In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
 
-- My personal Site: https://mattiaippoliti.github.io/MattiaIppoliti/
+- <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" targer=“_blank”>My personal Web-site</a> : https://mattiaippoliti.github.io/MattiaIppoliti/
 
-- Linkedin: https://www.linkedin.com/in/mattiaippoliti/
+- <a href="https://mattiaippoliti.github.io/article/" targer=“_blank”>My personal Blog</a>
 
-- GitHub: https://github.com/MattiaIppoliti
+- <a href="https://www.linkedin.com/in/mattiaippoliti/" targer=“_blank”>LinkedIn</a>
 
-- LinkTree: https://linktr.ee/mattiaippoliti
+- a href="https://github.com/MattiaIppoliti" targer=“_blank”>Github</a>
+
+- <a href="https://linktr.ee/mattiaippoliti" targer=“_blank”>LinkTree</a>
 
 ---
