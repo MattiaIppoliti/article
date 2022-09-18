@@ -11,11 +11,11 @@ Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend
 ## Recent Blog Posts
 - [How The Economic Machine Works](/notes/economics-works)
 - [Principles for Dealing with the Changing World Order](/notes/principles)
+- [Docker 101](/notes/Docker-101)
 
 ## Entry Points
 - [Favourite Posts](/notes)
 - [Learning Obsidian](/notes/learning-obsidian.md)
-- [Writing in Markdown](/notes/writing-markdown.md)
 
 ---
 
