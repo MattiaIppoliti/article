@@ -305,7 +305,7 @@ hr {
   margin: 2em auto;
   height: 1px;
   border: none;
-  background-color: var(--tertiary);
+  background-color: var(--outlinegray);
 }
 
 .page-end {
@@ -330,14 +330,14 @@ hr {
       & > li {
         margin: 0.5em 0;
         padding: 0.25em 1em;
-        border: var(--tertiary) 1px solid;
+        border: var(--outlinegray) 1px solid;
         border-radius: 5px
       }
     }
   }
 
   & #graph-container {
-    border: var(--tertiary) 1px solid;
+    border: var(--outlinegray) 1px solid;
     border-radius: 5px;
     box-sizing: border-box;
     min-height: 250px;
@@ -564,7 +564,7 @@ header {
   background-color: var(--light);
   padding: 1rem;
   margin: 1rem;
-  border: 1px solid var(--tertiary);
+  border: 1px solid var(--outlinegray);
   border-radius: 5px;
   pointer-events: none;
   transition: opacity 0.2s ease, transform 0.2s ease;

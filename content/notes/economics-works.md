@@ -1,6 +1,7 @@
 ---
-tags: Economics
 title: How The Economic Machine Works
+tags: 
+    - economics
 ---
 # How The Economic Machine Works
 **Autor**: Ray Dalio

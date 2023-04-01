@@ -1,5 +1,7 @@
 ---
-Title: Principles for Dealing with the Changing World Order
+title: Principles for Dealing with the Changing World Order
+tags: 
+    - economics
 ---
 # Principles for Dealing with the Changing World Order
 

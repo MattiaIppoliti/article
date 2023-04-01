@@ -73,18 +73,6 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 
-# title of the home page (also for SEO)
-page_title:
-  "🪴 Quartz 3.3"
-
-# links to show in the footer
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
-```
-
 ### Code Block Titles
 To add code block titles with Quartz:
 
@@ -205,16 +193,7 @@ Partials are what dictate what gets rendered to the page. Want to change how pag
 
 For example, the structure of the home page can be edited through `/layouts/index.html`. To customize the footer, you can edit `/layouts/partials/footer.html`
 
-More info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)
-
-Still having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
-
-## Language Support
-[CJK + Latex Support (测试)](notes/CJK%20+%20Latex%20Support%20(测试).md) comes out of the box with Quartz.
-
 Want to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Quartz) supports this natively.
-
-Follow the steps [Hugo provides here](https://gohugo.io/content-management/multilingual/#configure-languages) and modify your `config.toml`
 
 For example:
 

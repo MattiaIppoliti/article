@@ -1,6 +1,7 @@
 ---
-title: Home🏡
-tags: Home
+title: Home 🏡
+tags: 
+    - Home
 ---
 # Hi, there👋. My name is Mattia Ippoliti
 
@@ -8,14 +9,9 @@ Hello there, traveller of the web. Welcome back! You must be tired from your jou
 
 Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend a lot of time here playing, writing, and building out in the open. It’s a little unkempt in places, but I think it gives it a little charm.
 
-## Recent Blog Posts
-- [How The Economic Machine Works](/notes/economics-works)
-- [Principles for Dealing with the Changing World Order](/notes/principles)
-- [Docker 101](/notes/Docker-101)
-
 ## Entry Points
 - [Favourite Posts](/notes)
-- [Learning Obsidian](/notes/learning-obsidian.md)
+- [Setup a blog like this!](/notes/setup.md)
 
 ---
 
