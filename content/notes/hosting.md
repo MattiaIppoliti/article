@@ -15,7 +15,7 @@ By default, GitHub disables workflows from modifying your files (for good reason
 
 Head to `Settings > Action > General > Workflow Permissions` and choose `Read and Write Permissions`
 
-![[notes/images/github-actions.png]]
+![Enable GitHub Actions](/notes/images/github-actions.png)
 *Enable GitHub Actions*
 
 ### Enable GitHub Pages
