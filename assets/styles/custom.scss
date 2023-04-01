@@ -1,7 +1,7 @@
 // Add your own CSS here!
 
 :root {
-  --light: #faf8f8;
+  --light: #F5F2E9;
   --dark: #141021;
   --secondary: #284b63;
   --tertiary: #84a59d;
@@ -15,17 +15,54 @@
 }
 
 [saved-theme="dark"] {
-  --light: #1e1e21 !important;
-  --dark: #fbfffe !important;
-  --secondary: #6b879a !important;
+  --light: #0B2952 !important;
+  --dark: #d4d4d4 !important;
+  --secondary: #B0FAB0 !important;
   --visited: #4a575e !important;
   --tertiary: #84a59d !important;
   --primary: #f58382 !important;
-  --gray: #d4d4d4 !important;
+  --gray: #fbfffe !important;
   --lightgray: #292633 !important;
-  --outlinegray: #343434 !important;
+  --outlinegray: #D4FFD4 !important;
   --highlighted: #574010;
 }
+.outreach {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: var(--gray);
+  fill: var(--gray);
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
+}
+
+.outreach {
+  // border-bottom: 1px solid var(--outlinegray);
+  // margin: 40px auto;
+  padding: 12px 0px;
+  text-align: center;
+
+  h3 {
+    margin-bottom: 0px;
+    margin-block-start: 0px;
+  }
+}
+
+#banner {
+  margin: 3em 0;
+  filter: invert(0%);
+  opacity: 0.85;
+}
+
+.profile-picture {
+  position: relative;
+  display: inline-flex;
+  border-radius: 50%;
+  background: url("../../static/icon.png") center center no-repeat;
+  background-size: cover;
+  width: clamp(4.5em, 6.5vw, 8em);
+  height: clamp(4.5em, 6.5vw, 8em);
+}
+
 
 
 

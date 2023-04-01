@@ -1,19 +1,21 @@
-# Quartz
+# README
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hello there, traveller of the web. Welcome back! You must be tired from your journey.
 
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
+Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend a lot of time here playing, writing, and building out in the open. It’s a little unkempt in places, but I think it gives it a little charm.
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+I am a **software engineer**, deeply interested in helping people interface more easily with their computers to get done the things that matter to them. I’m passionate about solving real problems, not building unnecessary technology.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+I have almost 2 years of experience: first as a Software Engineer Intern from A*STAR Singapore, then later as a Junior Data Engineer in the banking industry, and currently as a Data Engineer for the same company where I am working right now.  In my spare time, I create and maintain a number of widely used open-source projects.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+I’m curious about how we can better incentivize public goods funding, support better interactions with computers and data, and be more responsible stewards of technology.
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- My personal Site: https://mattiaippoliti.github.io/MattiaIppoliti/
+
+- Linkedin: https://www.linkedin.com/in/mattiaippoliti/
+
+- GitHub: https://github.com/MattiaIppoliti
+
+- LinkTree: https://linktr.ee/mattiaippoliti

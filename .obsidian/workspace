@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d08469fb45e26193",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e203bebfb99cc31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/Docker-101.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fc88f7460959bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33d9021260ea4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c791b4ee7b55816f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e39b9a92a34d080f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f6849c094859e92",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7414b5967636a3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "767f1e7705691d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60d78be5848d843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/Docker-101.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24e70e445a1fb983",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/Docker-101.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "603cffa7354d94c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bbd862434c86306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/notes/Docker-101.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e203bebfb99cc31",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/notes/Docker-101.md",
+    "content/notes/learning-obsidian.md",
+    "content/notes/principles.md",
+    "content/notes/writing-markdown.md.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "content/notes/Writing in Markdown.md",
+    "content/notes/How The Economic Machine Works.md",
+    "content/notes/Learning Obsidian.md"
+  ]
+}

@@ -4,14 +4,15 @@
 
 <body>
 {{partial "search.html" .}}
-<div class="singlePage">
+<div id="index" class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
+          {{$notes := where .Site.RegularPages "Section" "notes"}}
           {{partial "recent.html" . }}
+          <a href="https://mattiaippoliti.github.io/article/notes/" >See {{sub (len $notes) 2}} more →</a>
         {{end}}
     </article>
     {{partial "footerIndex.html" .}}
