@@ -115,12 +115,7 @@ blockquote[class*="-callout"] > p:first-child {
 }
 
 blockquote[class*="-callout"] > p:empty {
-  font-weight: bold;
   padding: 1.2em 35px;
-
-  &::after {
-    left: 0;
-  }
 }
 
 $summary: summary, abstract, tldr;
