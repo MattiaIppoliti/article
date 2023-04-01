@@ -107,6 +107,15 @@ blockquote[class*="-callout"] > p:first-child::after, blockquote.callout-collaps
 
 blockquote[class*="-callout"] > p:first-child {
   font-weight: bold;
+  padding: 0.4em 35px;
+
+  &::after {
+    left: 0;
+  }
+}
+
+blockquote[class*="-callout"] > p:empty {
+  font-weight: bold;
   padding: 1.2em 35px;
 
   &::after {
