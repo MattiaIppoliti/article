@@ -1,8 +1,4 @@
 ---
-<<<<<<< HEAD
-title: 🪴 Quartz 3.3
-enableToc: false
-=======
 title: Home🏡
 tags: Home
 ---
@@ -21,7 +17,6 @@ Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend
 - [Favourite Posts](/notes)
 - [Learning Obsidian](/notes/learning-obsidian.md)
 
->>>>>>> c7b96817c2dbcaf07b577c217692e8dbe189bbc4
 ---
 
 ## Who am I?
@@ -31,15 +26,7 @@ Come, sit! Welcome to my little garden on the internet – I’m Mattia! I spend
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
 3. Automatically generated backlinks, link previews, and local graph
 4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-=======
-I am a **software engineer**, deeply interested in helping people interface more easily with their computers to get done the things that matter to them. I’m passionate about solving real problems, not building unnecessary technology.
->>>>>>> c7b96817c2dbcaf07b577c217692e8dbe189bbc4
-
-I have almost 2 years of experience: first as a Software Engineer Intern from A*STAR Singapore, then later as a Junior Data Engineer in the banking industry, and currently as a Data Engineer for the same company where I am working right now.  In my spare time, I create and maintain a number of widely used open-source projects.
-
 I’m curious about how we can better incentivize public goods funding, support better interactions with computers and data, and be more responsible stewards of technology.
-
 In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
 
 - <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" target=“_blank”>My personal Web-site</a>
