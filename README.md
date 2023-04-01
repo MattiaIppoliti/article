@@ -8,7 +8,11 @@ I am a **software engineer**, deeply interested in helping people interface mor
 
 I have almost 2 years of experience: first as a Software Engineer Intern from A*STAR Singapore, then later as a Junior Data Engineer in the banking industry, and currently as a Data Engineer for the same company where I am working right now.  In my spare time, I create and maintain a number of widely used open-source projects.
 
-I’m curious about how we can better incentivize public goods funding, support better interactions with computers and data, and be more responsible stewards of technology.
+1. Extremely fast full-text search by pressing `Ctrl` + `k`
+2. Customizable and hackable design based on Hugo
+3. Automatically generated backlinks, link previews, and local graph
+4. Built-in CJK + Latex Support
+5. Support for both Markdown Links and Wikilinks
 
 In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
 
