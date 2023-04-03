@@ -1,5 +1,5 @@
 ---
-title: "How To Fork a GitHub Repository & Submit a Pull Request"
+title: "Fork & Pull Request GitHub"
 tags:
 - programming
 ---
@@ -55,7 +55,7 @@ It’s possible to make changes directly to the `master` branch, but this migh
 
 ## 5. Make your changes!
 
-This is either the easiest part or the hardest part, depending on how you look at it. 😉 At this point, you’re isolated in the new branch you just created, and it’s safe to open whatever text editor or IDE you use and go wild.
+This is either the easiest part or the hardest part, depending on how you look at it. At this point, you’re isolated in the new branch you just created, and it’s safe to open whatever text editor or IDE you use and go wild.
 
 ## 6. Add, commit, and push the changes
 
@@ -71,7 +71,4 @@ The one difference is the branch you’re pushing to. You likely usually push to
 
 You’re now all ready to submit the improvement you’ve made to the project’s maintainers for approval. Head over to the original repositories Pull Requests tab, and you should see an automatic suggestion from GitHub to create a pull request from your new branch.
 ![Step 7.1](https://i.imgur.com/rjUhe4e.png)
-
 ![Step 7.2](https://i.imgur.com/IYCVFD2.png)
-
----

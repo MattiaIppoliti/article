@@ -22,9 +22,6 @@ Open Settings > Files & Links and look for these two items:
 1. Set the **New link format** to **Absolute Path in vault**. If you have a completely flat vault (no folders), this step isn't necessary.
 2. Turn **on** the **Automatically update internal links** setting.
 
-
-![[notes/images/obsidian-settings.png]]*Obsidian Settings*
-
 ## Templates
 Inserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.
 

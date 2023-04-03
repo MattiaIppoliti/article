@@ -84,8 +84,6 @@ Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domai
 ### Ignoring Files
 Only want to publish a subset of all of your notes? Don't worry, Quartz makes this a simple two-step process.
 
-❌ [Excluding pages from being published](notes/ignore%20notes.md)
-
 ## Docker Support
 If you don't want to use a hosting service, you can host using [Docker](notes/docker.md) instead!
 I would *not use this method* unless you know what you are doing.
@@ -95,5 +93,3 @@ I would *not use this method* unless you know what you are doing.
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 
 > Step 6: 🎨 [Customizing Quartz](notes/config.md)
-
-Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
