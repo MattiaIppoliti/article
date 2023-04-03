@@ -11,7 +11,7 @@ Starting from the very beginning, we’ll fork an existing repository to our acc
 
 But first, some 101 concept about git (in a nutshell):
 
-> [!INFO] Docker Support
+> [!INFO] Git 101
 >
 > - **commit** : add your changes to your local repository;
 > - **push** : your local commits are pushed to the remote repository;
