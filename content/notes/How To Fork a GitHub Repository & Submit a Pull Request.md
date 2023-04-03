@@ -31,7 +31,7 @@ Assuming you’re using GitHub, this step is easy. Just find the repository you�
 
 GitHub will automatically redirect you to the forked repository under your username. This is the repository you need to clone to your local development environment, **not** the original. Grab the URL GitHub provides under the green “Clone or Download” button and plug it into the command below.
 
-`git clone git@github.com:jakejarvis/react-native.git`
+`git clone git@github.com:MattiaIppoliti/react-native.git`
 
 ![Step 2](https://jarv.is/_next/image/?url=%2Fstatic%2Fimages%2Fnotes%2Fhow-to-pull-request-fork-github%2Fstep2.png&w=1080&q=60)
 
