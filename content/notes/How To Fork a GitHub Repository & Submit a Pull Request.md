@@ -9,6 +9,18 @@ The following steps to submit a pull request will work on Git repositories hoste
 
 Starting from the very beginning, we’ll fork an existing repository to our account, clone the fork locally, commit your changes to a new branch, and push it back upstream to GitHub to submit for approval.
 
+But first, some 101 concept about git (in a nutshell):
+
+> [!INFO] Docker Support
+>
+> - **commit** : add your changes to your local repository;
+> - **push** : your local commits are pushed to the remote repository;
+> - **fetch** : fetch from the remote git the modifications inherent to the metadata of the branches (commits, tags, etc..) and update the local repository with new branches created.
+> - **merge** : after a pull, in case of modifications in the same file/lines, git requests to perform a "merge" or to merge the modifications manually avoiding losing or overwriting lines of code.
+> - **pull** : download the "changes" (modifications made to the code) from the remote git and update the local files.
+> - **rebase**: during a pull with conflicts it is possible to perform a "rebase", the local branch will first be aligned with the latest remote changes, then the local changes will be applied and in case of further conflicts requested I join.
+> - **stash**: the changes made in the local branch are temporarily moved to another folder, bringing back the previous state of the local branch (useful for performing a pull or a rebase of the local branch to then remove the stash and avoid possible conflicts).
+
 ## 1. Forking the Repository
 
 Assuming you’re using GitHub, this step is easy. Just find the repository you’re contributing to and press the Fork button in the upper right. This will create an exact copy of the repository (and all of its branches) under your own username.
