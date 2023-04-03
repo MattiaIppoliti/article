@@ -9,7 +9,7 @@ The following steps to submit a pull request will work on Git repositories hoste
 
 Starting from the very beginning, we’ll fork an existing repository to our account, clone the fork locally, commit your changes to a new branch, and push it back upstream to GitHub to submit for approval.
 
-But first, some 101 concept about git (in a nutshell):
+But first, some 101 concepts about git (in a nutshell):
 
 > [!INFO] Git 101
 >
