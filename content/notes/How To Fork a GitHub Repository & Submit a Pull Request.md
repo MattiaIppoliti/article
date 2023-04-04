@@ -24,8 +24,7 @@ But first, some 101 concepts about git (in a nutshell):
 ## 1. Forking the Repository
 
 Assuming you’re using GitHub, this step is easy. Just find the repository you’re contributing to and press the Fork button in the upper right. This will create an exact copy of the repository (and all of its branches) under your own username.
-
-![Step 1](https://jarv.is/_next/image/?url=%2Fstatic%2Fimages%2Fnotes%2Fhow-to-pull-request-fork-github%2Fstep1.png&w=1920&q=60)
+![Step 1](https://i.imgur.com/j7qec6R.png)
 
 ## 2. Clone your new fork locally
 
@@ -33,7 +32,7 @@ GitHub will automatically redirect you to the forked repository under your usern
 
 `git clone git@github.com:MattiaIppoliti/react-native.git`
 
-![Step 2](https://jarv.is/_next/image/?url=%2Fstatic%2Fimages%2Fnotes%2Fhow-to-pull-request-fork-github%2Fstep2.png&w=1080&q=60)
+![Step 2](https://i.imgur.com/Zh0C7NN.png)
 
 ## 3. Track the original repository as a remote of the fork
 
