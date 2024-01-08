@@ -374,13 +374,6 @@ header {
     }
   }
 
-  & > div {
-    .darkmode:hover {
-      stroke: var(--tertiary);
-      transition: stroke 0.5s ease;
-    }
-  }
-
   #search-icon {
     background-color: var(--lightgray);
     border-radius: 0.6em;
@@ -400,6 +393,11 @@ header {
     width: 18px;
     min-width: 18px;
     margin: 0 0.5em;
+
+    .night-icon:hover, .day-icon:hover {
+      stroke: var(--tertiary);
+      transition: stroke 0.5s ease;
+    }
 
     &:hover .search-path {
       stroke: var(--tertiary);
