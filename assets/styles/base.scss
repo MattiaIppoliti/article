@@ -408,11 +408,6 @@ header {
 
 .day-icon:hover, .night-icon:hover  {
   stroke: var(--tertiary);
-}
-
-.day-icon, .night-icon {
-  stroke: var(--gray);
-  stroke-width: 2px;
   transition: stroke 0.5s ease;
 }
 
