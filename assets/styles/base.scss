@@ -394,11 +394,21 @@ header {
     min-width: 18px;
     margin: 0 0.5em;
 
-    &:hover .search-path .darkmode {
+    &:hover .search-path {
       stroke: var(--tertiary);
     }
 
-    .search-path .darkmode {
+    &:hover .darkmode {
+      stroke: var(--tertiary);
+    }
+
+    .search-path {
+      stroke: var(--gray);
+      stroke-width: 2px;
+      transition: stroke 0.5s ease;
+    }
+
+    .darkmode {
       stroke: var(--gray);
       stroke-width: 2px;
       transition: stroke 0.5s ease;
