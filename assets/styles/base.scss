@@ -406,7 +406,7 @@ header {
   }
 }
 
-.day-icon:hover, .night-icon:hover  {
+.darkmode:hover, .darkmode-icon:hover  {
   stroke: var(--tertiary);
   transition: stroke 0.5s ease;
 }
