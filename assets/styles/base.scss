@@ -406,7 +406,7 @@ header {
   }
 }
 
-&:hover .day-icon, .night-icon  {
+.day-icon:hover, .night-icon:hover  {
   stroke: var(--tertiary);
 }
 
