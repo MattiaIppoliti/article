@@ -19,6 +19,9 @@ other = "showing first 10 results"
 [tag]
 other = "Tag"
 
+[all_tags]
+other = "All Tags"
+
 [backlinks]
 other = "Backlinks"
 

@@ -28,6 +28,9 @@ other = "Nessun Backlink trovato"
 [home]
 other = "Home"
 
+[all_tags]
+other = "Tutti i Tags"
+
 [light_mode]
 other = "Modalità Chiara"
 

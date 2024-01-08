@@ -19,6 +19,9 @@ other = "показано 10 перших результатів"
 [tag]
 other = "Тег"
 
+[all_tags]
+other = "Тег"
+
 [backlinks]
 other = "Зворотнє посилання"
 
