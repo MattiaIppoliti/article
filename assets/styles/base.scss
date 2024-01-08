@@ -394,16 +394,26 @@ header {
     min-width: 18px;
     margin: 0 0.5em;
 
-    &:hover .search-path, .day-icon, .night-icon  {
+    &:hover .search-path {
       stroke: var(--tertiary);
     }
 
-    .search-path, .day-icon, .night-icon {
+    .search-path {
       stroke: var(--gray);
       stroke-width: 2px;
       transition: stroke 0.5s ease;
     }
   }
+}
+
+&:hover .day-icon, .night-icon  {
+  stroke: var(--tertiary);
+}
+
+.day-icon, .night-icon {
+  stroke: var(--gray);
+  stroke-width: 2px;
+  transition: stroke 0.5s ease;
 }
 
 #search-container {
